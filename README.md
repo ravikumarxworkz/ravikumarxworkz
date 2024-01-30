@@ -10,6 +10,7 @@
 - 💬 Ask me about **java ,html,css,mysql,javascript**
 
 - 📫 How to reach me **ravikumar.xworkz@gmail.com**
+- 📄 my resume <a href="http://github.com/ravikumarxworkz/my_resume/blob/main/RAVI%20SK.pdf" target="_blank" rel="noopener noreferrer">click here</a>
 
 - ⚡ Fun fact **I think Im funnny😂**
 
