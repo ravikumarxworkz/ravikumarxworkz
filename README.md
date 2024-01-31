@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm RAVIKUMAR SHANKAR KUMBAR</h1>
 <h3 align="center">A passionate full stack java developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://avatars.githubusercontent.com/u/147067056?s=400&u=b7f0cd9cf57fac62ad48447e738bc6d37648ad95&v=4">
+<img align="right" alt="coding" width="500" src="https://github.com/ravikumarxworkz/my_resume/blob/main/github.gif">
 
 - 🌱 I’m currently learning **javascript,jabc**
 
