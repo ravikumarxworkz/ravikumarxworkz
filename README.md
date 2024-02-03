@@ -4,6 +4,7 @@
 <h3 align="center">A passionate full stack java developer from India</h3>
 
 <img align="right" alt="coding" width="500" src="https://github.com/ravikumarxworkz/my_resume/blob/main/github.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ravikumarxworkz&label=Profile%20views&color=0e75b6&style=flat" alt="ravikumarxworkz" /> </p>
 
 - 🌱 I’m currently learning **javascript,jabc**
 
