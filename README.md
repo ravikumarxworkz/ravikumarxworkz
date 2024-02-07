@@ -6,11 +6,11 @@
 <img align="right" alt="coding" width="500" src="https://github.com/ravikumarxworkz/my_resume/blob/main/github.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravikumarxworkz&label=Profile%20views&color=0e75b6&style=flat" alt="ravikumarxworkz" /> </p>
 
-- 🌱 I’m currently learning **javascript,jabc**
+- 🌱 I’m currently learning **Java Enterprise application Development Course**
 
 - 💬 Ask me about **java ,html,css,mysql,javascript**
 
-- 📫 How to reach me **ravikumar.xworkz@gmail.com**
+- 📫 How to reach me **rkkumbar97@gmail.com**
 - 📄 my resume <a href="http://github.com/ravikumarxworkz/my_resume/blob/main/RAVI%20SK.pdf" target="_blank" rel="noopener noreferrer">click here</a>
 
 - ⚡ Fun fact **I think Im funnny😂**
