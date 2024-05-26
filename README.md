@@ -11,7 +11,7 @@
 - 💬 Ask me about **java ,html,css,mysql,javascript**
 
 - 📫 How to reach me **rkkumbar97@gmail.com**
-- 📄 my resume <a href="https://github.com/ravikumarxworkz/ravikumarxworkz.github.io/blob/main/RAVI%20RESUME.pdf" target="_blank" rel="noopener noreferrer">click here</a>
+- 📄 my resume <a href="https://github.com/ravikumarxworkz/my_resume/blob/main/Ravikumar_FSD.pdf" target="_blank" rel="noopener noreferrer">click here</a>
 
 - ⚡ Fun fact **I think Im funnny😂**
 
