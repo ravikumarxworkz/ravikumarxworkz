@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Java Enterprise application Development Course**
 
-- 💬 Ask me about **java ,html,css,mysql,javascript**
+- 💬 Ask me about **Java ,Html,Css,Mysql,Javascript,Spring mvc and boot,GitHub**
 
 - 📫 How to reach me **rkkumbar97@gmail.com**
 - 📄 my resume <a href="https://github.com/ravikumarxworkz/my_resume/blob/main/Ravikumar_FSD.pdf" target="_blank" rel="noopener noreferrer">click here</a>
@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/ravikumar-shankar-kumbar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ravikumar-shankar-kumbar/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ravikumar-kumbar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ravikumar-shankar-kumbar/" height="30" width="40" /></a>
   <a href="https://www.instagram.com/ravik_s_kumbar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/ravikumarxworkz/my_resume/main/instagram-logo.avif" alt="https://www.instagram.com/ravik_s_kumbar/" height="40" width="40" /></a>
    <a href="https://twitter.com/BONDRAVI20/" target="blank"><img align="center" src="https://github.com/ravikumarxworkz/my_resume/blob/main/TIWTTER.jpg" alt="https://twitter.com/BONDRAVI20/" height="40" width="50" /></a>
 </p>
