@@ -1,4 +1,5 @@
-<img src="https://github.com/ravikumarxworkz/ravikumarxworkz.github.io/blob/main/person.gif" alt="logo" height="250" width="1000">
+<!--<img src="https://github.com/ravikumarxworkz/ravikumarxworkz.github.io/blob/main/person.gif" alt="logo" height="250" width="1000"> -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&background=323232F9&center=true&width=1000&height=250&lines=%F0%9F%94%A7+Fueling+innovation+with+mechanics+by+day+;%F0%9F%92%BB+Crafting+clean%2C+powerful+code+by+night!+%F0%9F%9A%80;%E2%9A%99%EF%B8%8F+Mechanical+Engineer+turned+Java+Pro;%F0%9F%8E%A8+Full-Stack+Developer+%7C+Designer+%7C+Lifelong+Learner;%E2%9C%A8+Let's+build+something+truly+amazing+together!)](https://git.io/typing-svg)
 <!-- Banner Section -->
 <h1 align="center">Hi 👋, I'm RAVIKUMAR</h1>
 <h3 align="center">A passionate full stack java developer from India</h3>
