@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravikumarxworkz&label=Profile%20views&color=0e75b6&style=flat" alt="ravikumarxworkz" /> </p>
 
-- 🔭 I’m currently working on [vendorManagementSystem](https://github.com/ravikumarxworkz/ProjectNuggets/tree/main/vendorManagementSystem)
+- 🔭 I’m currently working on [HospitalManagementSystemhttps://github.com/ravikumarxworkz/ProjectNuggets/tree/main/vendorManagementSystem](https://github.com/ravikumarxworkz/hospital-management-system.git))
 
 - 🌱 I’m currently learning **Java Enterprise application Development Course**
 
